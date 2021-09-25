@@ -53,6 +53,7 @@ This plugin comes with ready to use ES module:
 ```js
 import Framework7 from 'framework7';
 import Framework73dPanels from 'framework7-plugin-3d-panels';
+import Framework73DPanelsStyles from 'framework7-plugin-3d-panels/dist/framework7.3dpanels.min.css'
 
 // install plugin
 Framework7.use(Framework73dPanels);
